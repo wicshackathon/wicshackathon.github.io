@@ -1,5 +1,13 @@
 /* CSS Doc*/
 
+body {
+  background: #C0C0C0;
+}
+
+#jumbotron {
+  font-family: 'Magic School', 'Arial';
+}
+
 #about {
   font-family: 'Magic School', 'Arial';
 }
