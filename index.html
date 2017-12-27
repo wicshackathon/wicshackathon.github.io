@@ -7,6 +7,7 @@
 		<link href="https://fonts.googleapis.com/css?family=IM+Fell+Double+Pica+SC" rel="stylesheet">
 		<link rel="stylesheet" type="text/css" href="/mycss.css">
   	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
   </head>
 
   <body data-spy="scroll" data-target=".navbar" data-offset="50">
@@ -37,10 +38,18 @@
     <div class = "row">
       <div class="col-sm-12 text-center">
         <h1>WICS HACKS</h1>
-        <h2>Where the magic happens.</h2>
+				<div id = "magic">
+        	<h2 id= "magic">Where the magic happens.</h2>
+				</div>
       </div>
     </div>
   </section>
+
+	<script>
+		$(document).ready(function(){
+			$("#magic").fadeIn("slow");
+		});
+	</script>
 
 	<!-- About -->
 	<section class = "container-fluid">
@@ -80,7 +89,7 @@
 
 	<!-- Attendee Register -->
 	<section class = "container-fluid" >
-		<div id = "register">
+		<div id = "volunteer">
 			<div class = "row">
 				<div class="col-sm-8">
 					<h1 style="size: 100%">Want to register as a volunteer?</h1>
