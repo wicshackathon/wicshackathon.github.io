@@ -1,7 +1,12 @@
 /* CSS Doc*/
 
+.jumbotron {
+  background-image: url(anna.jpg), url(ruchi.jpg), url(all.jpg), url(manisha.jpg);
+  background-repeat: no-repeat, no-repeat, no-repeat, no-repeat;
+}
+
 .jumbotron, #about, #register, #volunteer, #schedule {
-  padding: 90px;
+  padding: 100px;
 }
 
 h1, h2, li, a, p {
