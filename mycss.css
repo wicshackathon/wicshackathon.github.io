@@ -49,6 +49,10 @@ h1, h2, li, a {
   font-family: 'IM Fell Double Pica SC', serif;
 }
 
+.agenda .agenda-events .agenda-event {
+  font-family: 'IM Fell Double Pica SC', serif;
+}
+
 /* Times */
 .agenda .agenda-time {
   width: 140px;
