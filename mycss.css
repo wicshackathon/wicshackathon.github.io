@@ -11,3 +11,8 @@ body {
 #about {
   font-family: 'IM Fell Double Pica SC', serif;
 }
+
+h1 {
+  font-size: 100%;
+  font-family: 'IM Fell Double Pica SC', serif;
+}
