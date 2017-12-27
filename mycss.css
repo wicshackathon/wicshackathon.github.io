@@ -14,13 +14,18 @@ h1, h2, li, a {
     color: white;
 }
 
+/* Fade in text*/
+.magic{
+  display: none;
+}
+
 /* Schedule */
 /* Thanks to Bootstrap 3.2.0 Snippet by travislaynewilson */
 .agenda .agenda-date {
   width: 170px;
   font-family: 'IM Fell Double Pica SC', serif;
  }
- 
+
 .agenda .agenda-date .dayofmonth {
   width: 40px;
   font-size: 36px;
