@@ -1,11 +1,11 @@
 /* CSS Doc*/
 
-h1, h2 {
+h1, h2, li, a {
   font-family: 'IM Fell Double Pica SC', serif;
 }
 
 .btn .btn-lg a {
-  font-family: serif;
+  font-family: 'IM Fell Double Pica SC', serif;
   color: white;
 }
 
@@ -24,6 +24,7 @@ h1, h2 {
   float: left;
   text-align: right;
   margin-right: 10px;
+  font-family: 'IM Fell Double Pica SC', serif;
 }
 
 .agenda .agenda-date .shortdate {
