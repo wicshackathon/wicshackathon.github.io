@@ -4,8 +4,18 @@ body {
   background: #C0C0C0;
 }
 
+.jumbotron {
+  background: #C0C0C0;
+}
+
+
 h1 {
   font-size: 1em;
+  font-family: 'IM Fell Double Pica SC', serif;
+}
+
+h2 {
+  font-size: 0.5em;
   font-family: 'IM Fell Double Pica SC', serif;
 }
 
