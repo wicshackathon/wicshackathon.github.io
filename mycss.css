@@ -1,5 +1,13 @@
 /* CSS Doc*/
 
+.jumbotron {
+  padding: 40px;
+}
+
+#about, #register, #volunteer, #schedule{
+  padding: 40px;
+}
+
 h1, h2, li, a {
   font-family: 'IM Fell Double Pica SC', serif;
 }
