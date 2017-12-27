@@ -4,17 +4,18 @@ body {
   background: #C0C0C0;
 }
 
-#jumbotron {
-  font-family: 'IM Fell Double Pica SC', serif;
-}
-
-#about {
-  font-family: 'IM Fell Double Pica SC', serif;
-}
-
 h1 {
-  font-size: 100%;
+  font-size: 1em;
   font-family: 'IM Fell Double Pica SC', serif;
+}
+
+.btn.btn-info {
+  color: black;
+}
+
+.btn.btn-info a {
+  font-family: serif;
+  color: white;
 }
 
 .nav.navbar-nav.navbar-right li a {
