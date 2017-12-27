@@ -1,21 +1,5 @@
 /* CSS Doc*/
 
-.jumbotron {
-  background: white;
-}
-
-#about {
-  background: #C0C0C0;
-}
-
-#register {
-  background: white;
-}
-
-#schedule {
-  background: #C0C0C0;
-}
-
 h1, h2 {
   font-family: 'IM Fell Double Pica SC', serif;
 }
