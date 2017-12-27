@@ -13,10 +13,6 @@ h1, h2 {
   font-family: 'IM Fell Double Pica SC', serif;
 }
 
-.btn .btn-info {
-  color: black;
-}
-
 .btn .btn-info a {
   font-family: serif;
   color: white;
@@ -24,4 +20,5 @@ h1, h2 {
 
 .nav .navbar-nav li a {
     font-family: 'IM Fell Double Pica SC', serif;
+    color: white;
 }
