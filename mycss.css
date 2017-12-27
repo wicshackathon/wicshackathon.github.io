@@ -1,6 +1,10 @@
 /* CSS Doc*/
 
-.jumbotron, #about, #register, #volunteer, #schedule{
+.jumbotron {
+  padding: 100px;
+}
+
+#about, #register, #volunteer, #schedule {
   padding: 60px;
 }
 
@@ -19,7 +23,7 @@ h1, h2, li, a, p {
 }
 
 /* Fade in text*/
-.magic{
+.magic {
   display: none;
 }
 
