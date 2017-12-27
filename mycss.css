@@ -12,12 +12,12 @@ h1, h2, li, a, p {
   font-family: 'IM Fell Double Pica SC', serif;
 }
 
-.btn .btn-lg a {
+.btn a {
   font-family: 'IM Fell Double Pica SC', serif;
   color: white;
 }
 
-.nav .navbar-nav li a {
+.nav li a {
     font-family: 'IM Fell Double Pica SC', serif;
     color: white;
 }
