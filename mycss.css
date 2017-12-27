@@ -16,7 +16,11 @@ h1, h2, li, a {
 
 /* Schedule */
 /* Thanks to Bootstrap 3.2.0 Snippet by travislaynewilson */
-.agenda .agenda-date { width: 170px; }
+.agenda .agenda-date {
+  width: 170px;
+  font-family: 'IM Fell Double Pica SC', serif;
+ }
+ 
 .agenda .agenda-date .dayofmonth {
   width: 40px;
   font-size: 36px;
@@ -29,7 +33,11 @@ h1, h2, li, a {
 
 .agenda .agenda-date .shortdate {
   font-size: 0.75em;
+  font-family: 'IM Fell Double Pica SC', serif;
 }
 
 /* Times */
-.agenda .agenda-time { width: 140px; }
+.agenda .agenda-time {
+  width: 140px;
+  font-family: 'IM Fell Double Pica SC', serif;
+}
