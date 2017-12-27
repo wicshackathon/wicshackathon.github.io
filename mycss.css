@@ -3,7 +3,7 @@
 .jumbotron {
   background-image: url(anna.jpg), url(ruchi.jpg), url(all.jpg), url(manisha.jpg);
   background-repeat: no-repeat, no-repeat, no-repeat, no-repeat;
-  background-size: 1000px, 1000px, 1000px, 1000px;
+  background-size: 300px, 300px, 300px, 300px;
 
 }
 
