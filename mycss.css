@@ -1,11 +1,7 @@
 /* CSS Doc*/
 
-.jumbotron {
-  padding: 100px;
-}
-
-#about, #register, #volunteer, #schedule {
-  padding: 60px;
+.jumbotron, #about, #register, #volunteer, #schedule {
+  padding: 90px;
 }
 
 h1, h2, li, a, p {
