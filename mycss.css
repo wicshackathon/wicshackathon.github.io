@@ -1,11 +1,9 @@
 /* CSS Doc*/
 
-.jumbotron .row .col-sm-12 .bg {
-  background-image: url(anna.jpg), url(ruchi.jpg), url(all.jpg), url(manisha.jpg);
-  background-repeat: no-repeat, no-repeat, no-repeat, no-repeat;
-  background-size: 280px, 280px, 280px, 280px;
-  background-position: 0px, 300px, 600px, 900px;
-  opacity: 0.2;
+.jumbotron {
+  background-image: url(ruchi.jpg);
+  background-repeat: no-repeat;
+  background-size: auto;
 }
 
 .jumbotron, #about, #register, #volunteer, #schedule {
