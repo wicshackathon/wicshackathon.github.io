@@ -1,12 +1,29 @@
 /* CSS Doc*/
 
-/*.anna {
-  position: left;
+
+.anna {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden
+}
+.anna img {
+    flex-shrink: 0;
+    min-width: 100%;
+    min-height: 100%
 }
 
 .ruchi {
-  position: right;
-} */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden
+}
+.ruchi img {
+    flex-shrink: 0;
+    min-width: 100%;
+    min-height: 100%
+}
 
 .jumbotron, #about, #register, #volunteer, #schedule, #sponsers, #contact{
   padding: 100px;
