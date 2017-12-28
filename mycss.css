@@ -1,9 +1,9 @@
 /* CSS Doc*/
 
 .jumbotron {
-  background-image: url(ruchi.jpg);
+  background-image: url(anna.jpg);
   background-repeat: no-repeat;
-  background-size: 100%;
+  background-size: cover;
 }
 
 .jumbotron, #about, #register, #volunteer, #schedule {
