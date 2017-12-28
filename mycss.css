@@ -1,5 +1,13 @@
 /* CSS Doc*/
 
+.anna {
+  position: left;
+}
+
+.ruchi {
+  position: right;
+}
+
 .jumbotron, #about, #register, #volunteer, #schedule, #sponsers, #contact{
   padding: 100px;
 }
