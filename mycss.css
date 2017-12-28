@@ -3,7 +3,7 @@
 .jumbotron {
   background-image: url(ruchi.jpg);
   background-repeat: no-repeat;
-  background-size: auto;
+  background-size: 100%;
 }
 
 .jumbotron, #about, #register, #volunteer, #schedule {
