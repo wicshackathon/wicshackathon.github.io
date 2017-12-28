@@ -1,10 +1,5 @@
 /* CSS Doc*/
 
-body {
-  background-image: url(anna.jpg);
-  background-repeat: no-repeat;
-}
-
 .jumbotron, #about, #register, #volunteer, #schedule, #sponsers, #contact{
   padding: 100px;
 }
