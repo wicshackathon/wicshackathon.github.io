@@ -33,12 +33,6 @@ h1, h2, li, a, p {
   box-sizing: border-box;
 }
 
-body {
-  font: 14px/1 'Open Sans', sans-serif;
-  color: #555;
-  background: #e5e5e5;
-}
-
 .gallery {
   width: 640px;
   margin: 0 auto;
