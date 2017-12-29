@@ -4,10 +4,14 @@
     <title>Texas WiCS Hackathon Website</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+		<!-- Google font -->
 		<link href="https://fonts.googleapis.com/css?family=IM+Fell+Double+Pica+SC" rel="stylesheet">
 		<link rel="stylesheet" type="text/css" href="/mycss.css">
   	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+		<link rel="stylesheet" href="jquery.justified.images.css">
+		<!-- Photo gallery-->
+		<script src="jquery.justified.images.js"></script>
   </head>
 
   <body data-spy="scroll" data-target=".navbar" data-offset="50">
@@ -37,25 +41,37 @@
 	<!-- Main -->
   <section class = "jumbotron">
     <div class = "row">
-			<div class = "col-sm-4">
-				<div class = "anna">
-					<img src="anna.jpg" alt="WiCS Hacks 2016">
-				</div>
-			</div>
-			<div class="col-sm-4 text-center">
+			<div class="col-sm-12 text-center">
 				<h1>WICS HACKS</h1>
 				<h2>Spring 2018</h2>
 				<div class = "magic">
 					<h2 style="color: #DAA520">Where the magic happens.</h2>
 				</div>
 			</div>
-			<div class = "col-sm-4">
-				<div class = "ruchi">
-					<img src="ruchi.jpg" alt="WiCS Hacks 2016">
-				</div>
-			</div>
     </div>
   </section>
+
+	<!-- Photo Gallery -->
+	<section class = "container-fluid">
+		<div class = "row">
+			<div class="col-sm-12 text-center">
+				<div class="gallery cf">
+				  <div>
+				    <img src="ruchi.jpg"/>
+				  </div>
+				  <div>
+				    <img src="all.jpg"/>
+				  </div>
+				  <div>
+				    <img src="anna.jpg" />
+				  </div>
+				  <div>
+				    <img src="manisha.jpg" />
+				  </div>
+				</div>
+			</div>
+		</div>
+	</section>
 
 	<script>
 		$(document).ready(function(){
