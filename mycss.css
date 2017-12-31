@@ -44,6 +44,7 @@ table {
 
 tr {
   border-bottom: 1px solid #ccc;
+  font-size: 1.5em;
 }
 
 th {
@@ -55,7 +56,7 @@ td {
 }
 
 .content{
-	max-width: 650px;
+	max-width: 1000px;
 	margin: 0 auto;
 	padding: 50px 0;
 	height: 100%;
@@ -66,7 +67,6 @@ td {
 	margin-top: 80px;
 }
 
-/* Image Gallery thank you to Oliver Knoblich*/
 .gallery {
   width: 1600px;
   margin: 0 auto;
@@ -75,7 +75,7 @@ td {
 .gallery > div {
   position: relative;
   float: left;
-  padding: 5px;
+  padding: 0px;
 }
 
 .gallery > div > img {
