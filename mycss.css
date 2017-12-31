@@ -74,15 +74,6 @@ td {
 .gallery > div {
   float: left;
   padding: 5px;
-  width: 50%;
-  height: 50%;
   margin: auto;
   text-align: center;
-}
-
-.gallery > div > img {
-  position: absolute;
-  top: 0; bottom:0; left: 0; right:0;
-  display: block;
-  width: 100%;
 }
