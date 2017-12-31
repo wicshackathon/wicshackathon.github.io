@@ -76,6 +76,7 @@ td {
   float: left;
   padding: 5px;
   margin: auto;
+  text-align: center;
 }
 
 .gallery > div > img {
