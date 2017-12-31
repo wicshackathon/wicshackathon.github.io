@@ -61,17 +61,10 @@ td {
 	background-color: white;
 }
 
-.gallery {
-  margin: 0 auto;
-  display: inline-block;
-}
-
 .gallery > div {
   padding: 5px;
   margin: auto;
   text-align: center;
-}
-
-.gallery > img {
   float: left;
+  /*display: inline-block;*/
 }
