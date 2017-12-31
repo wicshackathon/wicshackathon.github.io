@@ -24,11 +24,43 @@ h1, h2, li, a, p {
   display: none;
 }
 
+/* Schedule */
 table {
-	border-collapse: collapse;
-	border-spacing: 0;
+  border-collapse: collapse;
+  width: 100%;
+	line-height: 200%;
 }
 
+tr {
+  border-bottom: 1px solid #ccc;
+}
+
+th {
+  text-align: left;
+}
+
+td:first-child {
+	font-weight: 700;
+}
+
+td li {
+	list-style: none;
+	margin-left: 20px;
+	font-size: 13px;
+	color: #888;
+}
+
+.content{
+	max-width: 650px;
+	margin: 0 auto;
+	padding: 50px 0;
+	height: 100%;
+	background-color: white;
+}
+
+#two {
+	margin-top: 80px;
+}
 
 /* Image Gallery thank you to Oliver Knoblich*/
 * {
