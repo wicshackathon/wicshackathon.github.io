@@ -56,7 +56,6 @@ td {
 }
 
 .content{
-	max-width: 1000px;
 	margin: 0 auto;
 	padding: 50px 0;
 	background-color: white;
@@ -64,6 +63,7 @@ td {
 
 .gallery {
   margin: 0 auto;
+  display: inline-block;
 }
 
 .gallery > div {
