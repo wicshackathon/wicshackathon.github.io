@@ -20,12 +20,12 @@ li {
   font-family: serif;
 }
 
-.btn a {
+.btn > a {
   font-family: 'IM Fell Double Pica SC', serif;
   color: white;
 }
 
-.nav li a {
+.nav > li > a {
     font-family: 'IM Fell Double Pica SC', serif;
     color: white;
 }
@@ -74,8 +74,7 @@ td {
 
 .gallery > div {
   position: relative;
-  float: left;
-  padding: 0px;
+  padding: 5px;
 }
 
 .gallery > div > img {
