@@ -1,11 +1,11 @@
 /* CSS Doc*/
 
 
-.jumbotron, #about, #register, #volunteer, #schedule, #sponsers, #contact{
+.jumbotron, #about, #register, #volunteer, #schedule, #sponsers, #contact, #gallery{
   padding: 100px;
 }
 
-h1, h2, li, a, p {
+h1, h2, li, a, p, td {
   font-family: 'IM Fell Double Pica SC', serif;
 }
 
@@ -39,15 +39,8 @@ th {
   text-align: left;
 }
 
-td:first-child {
+td {
 	font-weight: 700;
-}
-
-td li {
-	list-style: none;
-	margin-left: 20px;
-	font-size: 13px;
-	color: #888;
 }
 
 .content{
