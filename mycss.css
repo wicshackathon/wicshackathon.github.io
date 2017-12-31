@@ -68,13 +68,14 @@ td {
 }
 
 .gallery {
-  width: 50%;
   margin: 0 auto;
 }
 
 .gallery > div {
   float: left;
   padding: 5px;
+  width: 50%;
+  height: 50%;
   margin: auto;
   text-align: center;
 }
