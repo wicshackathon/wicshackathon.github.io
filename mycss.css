@@ -70,7 +70,7 @@ td li {
 }
 
 .gallery {
-  width: 300px;
+  width: 400px;
   margin: 0 auto;
   padding: 5px;
   background: #fff;
@@ -85,7 +85,7 @@ td li {
 
 .gallery > div > img {
   display: block;
-  width: 200px;
+  width: 100px;
   transition: .1s transform;
   transform: translateZ(0); /* hack */
 }
