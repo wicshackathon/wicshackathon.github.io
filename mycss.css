@@ -73,7 +73,8 @@ td {
 }
 
 .gallery > div {
-  position: relative;
+  position: center;
+  float: left;
   padding: 5px;
 }
 
