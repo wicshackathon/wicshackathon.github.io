@@ -69,7 +69,7 @@ td {
 }
 
 /* Clear floats after the columns */
-.row:after {
+.column:after {
   content: "";
   visibility: hidden;
   display: block;
