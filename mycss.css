@@ -70,7 +70,9 @@ td {
 
 /* Clear floats after the columns */
 .row:after {
-    content: "";
-    display: table;
-    clear: both;
+  content: "";
+  visibility: hidden;
+  display: block;
+  height: 0;
+  clear: both;
 }
