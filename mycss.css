@@ -4,10 +4,6 @@
   background-color: white;
 }
 
-#gallery {
-  padding: 5px;
-}
-
 #about, #register, #volunteer, #schedule, #sponsers, #contact{
   padding: 80px;
 }
@@ -59,10 +55,6 @@ td {
 	margin: 0 auto;
 	padding: 50px 0;
 	background-color: white;
-}
-
-.column {
-    padding: 5px;
 }
 
 /* Clear floats after the columns
