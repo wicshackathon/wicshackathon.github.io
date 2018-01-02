@@ -58,11 +58,6 @@ td {
 	background-color: white;
 }
 
-/* Clear floats after the columns
-.column:after {
-  content: "";
-  visibility: hidden;
-  display: block;
-  height: 0;
-  clear: both;
-} */
+.column{
+  margin-left: 10px;
+}
