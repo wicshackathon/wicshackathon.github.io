@@ -36,7 +36,7 @@ li {
   font-size: 1.5em;
 }
 
-.column {
+.column > img {
   margin: 0px 20px 0px 20px;
 }
 
