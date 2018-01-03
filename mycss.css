@@ -41,7 +41,7 @@ li {
 
 /* Schedule */
 table {
-  border-collapse: separate;
+  border-collapse: collapse;
   border-spacing: 50px;
   width: 100%;
 	line-height: 200%;
