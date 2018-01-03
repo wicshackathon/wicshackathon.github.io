@@ -40,6 +40,10 @@ li {
   margin: 0px 3px 0px 3px;
 }
 
+#gallery {
+  padding-right: 20px;
+}
+
 /* Schedule */
 table {
   border-collapse: collapse;
