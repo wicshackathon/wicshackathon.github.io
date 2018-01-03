@@ -37,11 +37,14 @@ li {
 }
 
 .column > img {
+  height: 25%%;
+  width: 25%;
+  float: left;
   margin: 0px 3px 0px 3px;
 }
 
-#gallery {
-  margin: auto;
+.column {
+  display: inline-block;
 }
 
 /* Schedule */
