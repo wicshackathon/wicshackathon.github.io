@@ -31,9 +31,17 @@ li {
   display: none;
 }
 
+.faq {
+  font-family: serif;
+}
+
+.column {
+  margin: 0px 20px 0px 20px;
+}
+
 /* Schedule */
 table {
-  border-collapse: collapse;
+  border-collapse: separate;
   border-spacing: 50px;
   width: 100%;
 	line-height: 200%;
@@ -56,8 +64,4 @@ td {
 	margin: 0 auto;
 	padding: 50px 0;
 	background-color: white;
-}
-
-.column{
-  margin-left: 10px;
 }
