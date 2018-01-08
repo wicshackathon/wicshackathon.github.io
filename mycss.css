@@ -44,7 +44,6 @@ li {
 /* Schedule */
 table {
   border-collapse: collapse;
-  border-spacing: 50px;
   width: 100%;
 	line-height: 200%;
 }
@@ -63,9 +62,15 @@ td {
 }
 
 .content {
+  max-width: 650px;
 	margin: 0 auto;
 	padding: 50px 0;
+	height: 100%;
 	background-color: white;
+}
+
+#two {
+	margin-top: 80px;
 }
 
 .gallery {
@@ -75,7 +80,7 @@ td {
 .column {
   display: inline;
   vertical-align: middle;
-  margin:0 auto;
+  margin: 0 auto;
 }
 
 .column:after {
