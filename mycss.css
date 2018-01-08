@@ -73,8 +73,11 @@ td {
 }
 
 .column {
-  display: inline-block;
+  display: inline;
   vertical-align: middle;
   margin:0 1em;
-  width: 5%;
+}
+
+.column:after {
+    clear: both;
 }
