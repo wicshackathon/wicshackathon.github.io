@@ -62,8 +62,13 @@ td {
 	font-weight: 700;
 }
 
-.content{
+.content {
 	margin: 0 auto;
 	padding: 50px 0;
 	background-color: white;
+}
+
+.gallery {
+  width:352px; 
+  margin:0 auto;
 }
