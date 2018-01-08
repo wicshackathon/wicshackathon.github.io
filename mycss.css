@@ -69,10 +69,11 @@ td {
 }
 
 .gallery {
-    text-align: center;
+  text-align: center;
 }
 
 .column {
-    display: inline-block;
-    margin: 5px;
+  display: inline-block;
+  vertical-align: middle;
+  margin:0 1em;
 }
