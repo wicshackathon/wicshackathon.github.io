@@ -75,7 +75,7 @@ td {
 .column {
   display: inline;
   vertical-align: middle;
-  margin:0 1em 1em 1em;
+  margin:0 auto;
 }
 
 .column:after {
