@@ -68,7 +68,13 @@ td {
 	background-color: white;
 }
 
-.gallery {
-  width:352px; 
-  margin:0 auto;
+.gallery{
+    text-align: center;
+}
+
+.column{
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    margin: 5px;
 }
