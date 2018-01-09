@@ -33,9 +33,9 @@ li {
 
 .faq {
   font-family: serif;
-  font-size: 100%;
-  display: flex;
-  flex-direction: column;
+  font-size: 150%;
+  text-align: left;
+
 }
 
 /* Schedule */
