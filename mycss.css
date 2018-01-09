@@ -82,3 +82,9 @@ td {
 .column:after {
     clear: both;
 }
+
+@media only screen and (max-width: 320px) {
+   .faq {
+      font-size: 1em; 
+   }
+}
