@@ -14,7 +14,6 @@ h1, h2, a, p, td {
 
 li {
   font-family: serif;
-  width: 100%;
 }
 
 .btn {
@@ -35,8 +34,7 @@ li {
 .faq {
   font-family: serif;
   font-size: 150%;
-  display: flex;
-  flex-direction: row;
+  min-width: 640px;
 }
 
 /* Schedule */
