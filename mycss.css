@@ -14,6 +14,7 @@ h1, h2, a, p, td {
 
 li {
   font-family: serif;
+  width: 100%;
 }
 
 .btn {
