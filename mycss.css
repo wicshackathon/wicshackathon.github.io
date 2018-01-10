@@ -35,6 +35,7 @@ li {
   font-family: serif;
   font-size: 1.5em;
   min-width: 200px;
+  max-width: 500px;
   text-align: left;
 /*  -webkit-column-count: 2;
      -moz-column-count: 2;
