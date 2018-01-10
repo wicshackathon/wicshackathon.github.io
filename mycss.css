@@ -34,15 +34,8 @@ li {
 .faq {
   font-family: serif;
   font-size: 1.5em;
-  min-width: 250px;
-  max-width: 500px;
+  max-width: 20em;
   text-align: left;
-/*  -webkit-column-count: 2;
-     -moz-column-count: 2;
-          column-count: 2;
-  -webkit-column-width: 200px;
-     -moz-column-width: 200px;
-          column-width: 200px; */
 }
 
 /* Schedule */
@@ -89,4 +82,8 @@ td {
 
 .column:after {
     clear: both;
+}
+
+@media screen and (max-width: 320px) {
+  .faq { min-width: 250px;}
 }
