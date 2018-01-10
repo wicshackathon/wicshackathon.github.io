@@ -12,8 +12,7 @@ h1, h2, a, p, td {
   font-family: 'IM Fell Double Pica SC', serif;
 }
 
-li {
-  font-family: serif;
+.faq > ul > li {
   padding-bottom: 20px;
 }
 
@@ -25,6 +24,7 @@ li {
 .nav > li > a {
     font-family: 'IM Fell Double Pica SC', serif;
     color: white;
+    padding-bottom: 0px;
 }
 
 /* Fade in text*/
