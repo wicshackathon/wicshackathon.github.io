@@ -34,7 +34,7 @@ li {
 .faq {
   font-family: serif;
   font-size: 1.5em;
-  min-width: 200px;
+  min-width: 250px;
   max-width: 500px;
   text-align: left;
 /*  -webkit-column-count: 2;
