@@ -34,7 +34,8 @@ h1, h2, a, p, td {
 .faq {
   font-family: serif;
   font-size: 1.5em;
-  text-align: justify;
+  text-align: left;
+  min-width: 500px;
 }
 
 /* Schedule */
@@ -83,6 +84,6 @@ td {
     clear: both;
 }
 
-@media screen and (max-width: 640px) {
+@media screen and (min-width: 320px) and (max-width: 767px) {
   .faq { min-width: 250px;}
 }
