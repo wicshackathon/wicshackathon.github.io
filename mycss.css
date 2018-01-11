@@ -24,7 +24,6 @@ h1, h2, a, p, td {
 .nav > li > a {
     font-family: 'IM Fell Double Pica SC', serif;
     color: white;
-    padding-bottom: 0px;
 }
 
 /* Fade in text*/
@@ -35,7 +34,7 @@ h1, h2, a, p, td {
 .faq {
   font-family: serif;
   font-size: 1.5em;
-  text-align: left;
+  text-align: justify;
 }
 
 /* Schedule */
@@ -84,6 +83,6 @@ td {
     clear: both;
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 640px) {
   .faq { min-width: 250px;}
 }
