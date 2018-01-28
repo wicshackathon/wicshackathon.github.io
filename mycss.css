@@ -84,11 +84,11 @@ td {
     clear: both;
 }
 
-/*
+
 #bloomberg {
-  padding: 250px 100px 50px 100px;
+  padding: 50px 50px 50px 50px;
 }
-*/
+
 
 @media screen and (min-width: 320px) and (max-width: 767px) {
   .faq { min-width: 250px;}
