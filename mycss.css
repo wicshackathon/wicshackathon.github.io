@@ -4,16 +4,12 @@
   background-color: white;
 }
 
-#about, #register, #volunteer, #schedule, #sponsers, #contact{
+#about, #register, #keynote, #dropbox, #schedule, #sponsers, #contact{
   padding: 80px;
 }
 
 h1, h2, a, p, td {
   font-family: 'IM Fell Double Pica SC', serif;
-}
-
-.faq > ul > li {
-  padding-bottom: 20px;
 }
 
 .btn {
@@ -31,7 +27,7 @@ h1, h2, a, p, td {
   display: none;
 }
 
-.faq {
+.bio {
   font-family: serif;
   font-size: 1.5em;
   text-align: left;
@@ -84,12 +80,10 @@ td {
     clear: both;
 }
 
-
 #bloomberg {
   padding: 50px;
 }
 
-
 @media screen and (min-width: 320px) and (max-width: 767px) {
-  .faq { min-width: 250px;}
+  .bio { min-width: 250px;}
 }
