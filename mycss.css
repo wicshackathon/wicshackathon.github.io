@@ -27,6 +27,10 @@ h1, h2, a, td {
   display: none;
 }
 
+.headhsot {
+  padding-left: 50px;
+}
+
 .bio {
   font-family: serif;
   font-size: 1.5em;
